@@ -12,8 +12,9 @@ Las imagenes fueron segmentadas con https://github.com/wkentaro/labelme .
 
 El repo no tiene los datos. En el notebook de entrenamiento se hace referencia a los directorios  
 - data/images  
-- data/jsons/train
+- data/jsons/train  
 - data/jsons/test  
+- 
 que son el directorio con las imagenes, el directorio con los jsons de las imagenes de entrenamiento, y el directorio con los jsons de las imagenes de test 
 
 Los scripts principales son: 
