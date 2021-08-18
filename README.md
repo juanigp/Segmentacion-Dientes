@@ -14,7 +14,7 @@ El repo no tiene los datos. En el notebook de entrenamiento se hace referencia a
 - data/images  
 - data/jsons/train  
 - data/jsons/test  
-- 
+
 que son el directorio con las imagenes, el directorio con los jsons de las imagenes de entrenamiento, y el directorio con los jsons de las imagenes de test 
 
 Los scripts principales son: 
